@@ -8,11 +8,11 @@
 
 ## Dummy Text
 ```
-John Doe
+Jack-O’-Lantern
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
+A jack-o'-lantern is a carved pumpkin, turnip, or other root vegetable lantern associated with Halloween. Its name comes from the phenomenon of a strange light flickering over peat bogs, called will-o'-the-wisp or jack-o'-lantern.
 
-johndoe@veamcamp.com
+jack@veamcamp.com
 000-3234-2344
 Seoul, Korea
 
